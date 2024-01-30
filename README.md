@@ -1,2 +1,2 @@
 # fateen
-personaql blog
+personal blog
